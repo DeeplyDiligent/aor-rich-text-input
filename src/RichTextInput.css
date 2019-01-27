@@ -1,4 +1,4 @@
-@import "~quill/dist/quill.snow.css";
+@import "../../quill/dist/quill.snow.css";
 
 .aor-rich-text-input .ql-editor {
     font-size: 1rem;
